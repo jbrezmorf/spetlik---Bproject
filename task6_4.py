@@ -24,7 +24,7 @@ class Shoot:
         self.a = 0
         self.d = 0
         self.NN = 10;                   #minimalni pocet MC simulaci, ktery staci k odhadu V0 a V1
-        self.monteCarlo
+        self.monteCarlo()
 
 
 
